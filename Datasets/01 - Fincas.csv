@@ -1,0 +1,192 @@
+﻿Fecha Adquisicion;NOMBRE;EDUCACION;GENERO;ESTADO_CIVIL;ESTRATO;EDAD;TENENCIA;UEN;AREA_TOTAL;VALOR_FINCA;INGRESOS;EGRESOS;ENDEUDAM;CREDITO SOLICITADO
+29/05/2020;Amaya Alvarez Andres;Otro;Masculino;Viudo;4;57;Sucesión;Tomate;26,55;28.975,50 $;10.449,40 $;6.518,55 $;109.817,15 $;47.121,00 $
+5/10/2019;Amaya Alvarez Lady;Especialista;Femenino;Soltera;2;52;Sucesión;Banano;16,96;17.732,10 $;12.706,30 $;5.845,92 $;70.573,76 $;55.190,00 $
+6/03/2020;Amaya Alvarez Milena;Primaria;Femenino;Separada;2;73;Sucesión;Papa;20,60;16.318,80 $;50.849,80 $;38.341,40 $;34.922,23 $;63.803,00 $
+7/01/2020;Amaya Botero Alberto;Secundaria;Masculino;Casado;1;56;Arrendatario;Tomate;9,80;13.226,90 $;2.480,93 $;2.056,04 $;28.437,84 $;60.052,00 $
+20/09/2020;Amaya Botero Alisson;Secundaria;Femenino;Separada;3;62;Sucesión;Café;31,99;22.942,30 $;4.766,57 $;1.461,02 $;19.730,38 $;32.693,00 $
+2/02/2019;Amaya Botero Andrea;Ninguno;Femenino;Separada;3;54;Sucesión;Ganado;10,77;12.113,70 $;3.431,39 $;2.465,59 $;484,55 $;11.844,00 $
+9/04/2019;Amaya Botero Hoover;Secundaria;Masculino;Separado;2;49;Arrendatario;Café;37,58;79.179,40 $;15.486,50 $;9.167,21 $;221.702,32 $;269.903,00 $
+2/01/2019;Amaya Botero Juan;Secundaria;Masculino;Viudo;1;41;Arrendatario;Tomate;6,35;9.195,26 $;66.598,90 $;26.920,50 $;5.609,11 $;23.463,00 $
+19/03/2019;Amaya Botero Sebastian;Técnico;Masculino;Unión Libre M;2;43;Sucesión;Ganado;15,30;11.340,70 $;39.772,70 $;24.228,30 $;10.887,07 $;27.320,00 $
+3/04/2019;Amaya Buitrago Andrea;Especialista;Femenino;Soltera;3;19;Sucesión;Ganado;17,50;6.759,49 $;3.974,65 $;1.744,79 $;5.542,78 $;18.729,00 $
+3/12/2019;Amaya Calle Erik;Tecnólogo;Masculino;Unión Libre M;4;44;Propietario;Tomate;17,22;11.988,50 $;34.495,30 $;15.022,50 $;10.430,00 $;59.522,00 $
+28/09/2020;Amaya Giraldo Alisson;Otro;Femenino;Soltera;1;76;Arrendatario;Banano;45,71;63.102,70 $;9.587,92 $;6.017,08 $;631,03 $;224.832,00 $
+23/05/2019;Amaya Giraldo James;Especialista;Masculino;Unión Libre M;5;43;Propietario;Tomate;34,62;22.117,40 $;3.687,89 $;2.327,41 $;76.526,20 $;25.855,00 $
+31/05/2019;Amaya Loaiza Laura;Ninguno;Femenino;Separada;2;59;Sucesión;Café;17,71;16.583,90 $;3.038,11 $;2.392,67 $;3.482,62 $;34.743,00 $
+26/02/2020;Amaya Loaiza Monica;Profesional;Femenino;Separada;1;72;Sucesión;Café;22,17;16.206,00 $;3.296,32 $;2.102,82 $;14.747,46 $;21.639,00 $
+30/11/2019;Amaya Montoya Carolina;Secundaria;Femenino;Separada;2;51;Sucesión;Café;35,22;25.111,30 $;38.457,80 $;16.515,20 $;7.282,28 $;52.425,00 $
+21/09/2020;Amaya Montoya Cristina;Primaria;Femenino;Viuda;1;59;Sucesión;Papa;18,88;18.167,70 $;3.536,87 $;1.836,48 $;47.054,34 $;31.187,00 $
+27/01/2020;Amaya Ramirez Andrea;Tecnólogo;Femenino;Casada;1;49;Sucesión;Papa;12,11;15.841,40 $;4.168,59 $;2.732,10 $;27.722,45 $;69.458,00 $
+17/06/2020;Amaya Uran Laura;Otro;Femenino;Separada;5;36;Sucesión;Tomate;40,03;78.060,40 $;3.132,45 $;1.207,80 $;243.548,45 $;309.770,00 $
+2/05/2019;Botero Alvarez Alberto;Técnico;Masculino;Casado;2;58;Propietario;Papa;21,41;14.816,40 $;4.389,11 $;2.256,91 $;3.852,26 $;61.410,00 $
+5/08/2019;Botero Alvarez Jinenth;Técnico;Femenino;Viuda;4;74;Sucesión;Papa;43,22;63.745,70 $;3.026,02 $;899,54 $;27.410,65 $;85.087,00 $
+29/05/2019;Botero Botero Carolina;Tecnólogo;Femenino;Casada;5;49;Sucesión;Tomate;7,00;9.109,15 $;3.692,78 $;2.466,99 $;4.645,67 $;37.594,00 $
+11/04/2019;Botero Botero Lady;Técnico;Femenino;Unión Libre F;3;72;Sucesión;Banano;13,46;12.969,50 $;11.538,80 $;3.726,30 $;39.946,06 $;11.599,00 $
+11/02/2020;Botero Garcia Carolina;Especialista;Femenino;Separada;3;39;Propietario;Frijol;37,46;85.196,00 $;3.342,13 $;2.497,33 $;69.860,72 $;281.857,00 $
+28/01/2019;Botero Loaiza Laura;Otro;Femenino;Viuda;3;68;Arrendatario;Tomate;33,54;29.999,30 $;13.650,70 $;3.802,35 $;143.096,66 $;32.314,00 $
+28/05/2020;Botero Montoya Andres;Técnico;Masculino;Casado;5;52;Propietario;Papa;36,97;59.482,60 $;2.030,37 $;1.796,86 $;0,00 $;166.384,00 $
+14/09/2019;Botero Montoya Claudia;Ninguno;Femenino;Separada;2;76;Sucesión;Café;44,85;81.034,40 $;49.572,10 $;29.777,00 $;0,00 $;74.010,00 $
+27/02/2019;Botero Ramirez Johana;Especialista;Femenino;Soltera;5;57;Sucesión;Banano;30,44;30.942,90 $;2.862,70 $;2.050,20 $;6.498,01 $;44.467,00 $
+26/08/2019;Botero Ramirez Laura;Otro;Femenino;Casada;2;49;Arrendatario;Ganado;10,98;13.013,20 $;3.899,22 $;2.418,93 $;0,00 $;54.520,00 $
+4/07/2019;Botero Ramirez Lucia;Primaria;Femenino;Casada;5;52;Arrendatario;Tomate;36,61;81.940,80 $;2.266,27 $;2.986,75 $;0,00 $;213.741,00 $
+31/01/2019;Botero Ramirez Lucia;Técnico;Femenino;Casada;5;75;Arrendatario;Banano;6,21;8.588,03 $;6.610,71 $;5.954,06 $;29.800,46 $;8.586,00 $
+6/08/2020;Botero Ramirez Monica;Secundaria;Femenino;Separada;5;55;Sucesión;Banano;20,72;11.218,70 $;3.756,93 $;1.770,94 $;20.530,22 $;19.369,00 $
+22/10/2020;Botero Roa Alisson;Ninguno;Femenino;Soltera;4;54;Arrendatario;Frijol;24,90;29.849,90 $;3.910,92 $;2.033,35 $;38.506,37 $;92.807,00 $
+19/01/2020;Botero Uran Carolina;Técnico;Femenino;Soltera;3;34;Arrendatario;Papa;2,90;7.180,99 $;5.002,96 $;1.600,87 $;2.728,78 $;32.676,00 $
+25/01/2020;Cano Alvarez Andrea;Secundaria;Femenino;Casada;4;37;Sucesión;Banano;44,51;31.990,40 $;2.408,76 $;1.838,10 $;0,00 $;69.975,00 $
+18/09/2020;Cano Botero Jinenth;Otro;Femenino;Unión Libre F;5;40;Arrendatario;Café;35,16;30.940,30 $;9.133,54 $;6.194,88 $;38.365,97 $;48.240,00 $
+21/05/2020;Cano Botero Ximena;Ninguno;Femenino;Soltera;1;76;Sucesión;Papa;34,53;36.968,00 $;3.049,70 $;1.911,32 $;66.172,72 $;146.589,00 $
+15/02/2020;Cano Garcia Vanessa;Profesional;Femenino;Unión Libre F;1;41;Sucesión;Ganado;33,00;23.878,80 $;15.194,10 $;9.257,49 $;3.343,03 $;31.551,00 $
+28/06/2020;Cano Loaiza Cristina;Primaria;Femenino;Separada;5;45;Arrendatario;Papa;12,52;8.555,06 $;13.609,60 $;6.628,84 $;8.212,86 $;27.988,00 $
+26/11/2019;Cano Ramirez Felipe;Ninguno;Masculino;Separado;5;70;Propietario;Tomate;30,56;35.632,80 $;2.032,50 $;1.867,30 $;5.701,25 $;46.169,00 $
+9/07/2020;Cano Sepulveda Sebastian;Tecnólogo;Masculino;Viudo;2;44;Propietario;Frijol;30,60;26.582,40 $;3.906,95 $;1.884,81 $;4.253,18 $;130.805,00 $
+27/05/2020;Cano Uran Erik;Secundaria;Masculino;Viudo;3;54;Sucesión;Café;31,35;22.197,80 $;19.697,20 $;27.822,30 $;45.727,47 $;90.719,00 $
+18/04/2019;Cossio Alvarez Martha;Secundaria;Femenino;Viuda;2;49;Arrendatario;Ganado;12,15;12.430,59 $;2.289,08 $;2.770,32 $;16.284,07 $;51.822,00 $
+30/11/2019;Cossio Alvarez Vanessa;Tecnólogo;Femenino;Soltera;4;62;Arrendatario;Café;41,73;75.523,70 $;9.353,37 $;6.319,51 $;48.335,17 $;86.232,00 $
+29/07/2019;Cossio Loaiza Jinenth;Tecnólogo;Femenino;Casada;4;41;Sucesión;Banano;18,85;11.583,50 $;4.087,73 $;1.820,66 $;0,00 $;43.609,00 $
+17/03/2020;Cossio Loaiza Lady;Profesional;Femenino;Casada;3;57;Sucesión;Papa;13,04;12.646,30 $;4.066,51 $;2.367,04 $;20.487,01 $;6.785,00 $
+7/12/2019;Cossio Loaiza Martha;Ninguno;Femenino;Separada;5;53;Sucesión;Papa;40,77;80.079,80 $;60.824,70 $;21.675,60 $;41.641,50 $;182.745,00 $
+14/12/2019;Cossio Montoya Lucia;Ninguno;Femenino;Casada;2;57;Sucesión;Café;22,33;11.441,62 $;13.224,30 $;5.815,10 $;26.658,98 $;15.902,00 $
+27/08/2020;Cossio Ramirez Daniel;Tecnólogo;Masculino;Soltero;2;56;Propietario;Ganado;12,91;16.269,00 $;3.654,19 $;1.121,82 $;28.958,82 $;34.143,00 $
+25/03/2020;Cossio Ramirez Daniel;Especialista;Masculino;Casado;4;53;Propietario;Tomate;30,92;35.958,60 $;4.319,43 $;2.003,15 $;0,00 $;61.337,00 $
+9/03/2020;Cossio Ramirez Juan;Especialista;Masculino;Soltero;1;65;Arrendatario;Papa;10,36;10.585,10 $;38.923,70 $;22.392,40 $;1.058,51 $;41.973,00 $
+20/06/2020;Cossio Ramirez Patricia;Secundaria;Femenino;Soltera;5;37;Propietario;Papa;28,75;29.140,90 $;2.635,30 $;2.783,16 $;15.444,68 $;142.163,00 $
+15/04/2020;Forero Alvarez Alberto;Tecnólogo;Masculino;Viudo;1;50;Sucesión;Papa;33,84;34.736,20 $;3.336,30 $;1.744,33 $;21.536,44 $;139.297,00 $
+8/10/2019;Forero Alvarez Andrea;Otro;Femenino;Viuda;3;28;Arrendatario;Tomate;24,66;28.622,40 $;3.838,98 $;9.160,30 $;18.604,56 $;47.242,00 $
+12/02/2020;Forero Alvarez Cristina;Primaria;Femenino;Soltera;1;36;Sucesión;Frijol;32,01;31.637,30 $;4.261,74 $;2.502,87 $;26.891,71 $;30.636,00 $
+5/07/2020;Forero Alvarez Edinson;Primaria;Masculino;Separado;5;59;Arrendatario;Ganado;25,60;29.295,50 $;4.343,03 $;2.881,23 $;21.385,72 $;105.784,00 $
+28/01/2020;Forero Alvarez Hoover;Profesional;Masculino;Separado;3;57;Propietario;Ganado;29,53;39.295,40 $;3.156,16 $;2.102,74 $;16.111,11 $;136.230,00 $
+16/02/2019;Forero Alvarez Juan;Secundaria;Masculino;Unión Libre M;5;49;Arrendatario;Tomate;24,80;26.247,00 $;1.466,87 $;2.132,53 $;2.362,23 $;55.312,00 $
+11/03/2019;Forero Alvarez Milena;Primaria;Femenino;Viuda;2;42;Sucesión;Frijol;34,22;29.555,40 $;19.678,10 $;17.880,00 $;0,00 $;134.539,00 $
+12/04/2019;Forero Botero Andres;Especialista;Masculino;Viudo;2;61;Propietario;Banano;16,44;11.804,70 $;4.414,00 $;1.173,45 $;0,00 $;21.588,00 $
+21/06/2019;Forero Buitrago Cristina;Primaria;Femenino;Separada;1;79;Sucesión;Tomate;22,29;17.320,00 $;2.482,94 $;1.049,08 $;42.953,60 $;32.735,00 $
+5/07/2019;Forero Buitrago Lady;Tecnólogo;Femenino;Unión Libre F;3;44;Sucesión;Ganado;2,54;9.359,21 $;4.179,18 $;2.973,36 $;6.645,04 $;28.256,00 $
+25/08/2019;Forero Buitrago Ximena;Otro;Femenino;Casada;5;74;Sucesión;Frijol;22,45;12.591,70 $;28.338,70 $;18.303,40 $;2.896,09 $;18.650,00 $
+22/01/2019;Forero Giraldo Luis;Especialista;Masculino;Viudo;3;57;Propietario;Papa;12,12;12.900,20 $;3.244,67 $;2.382,02 $;32.379,50 $;11.890,00 $
+2/09/2020;Forero Loaiza Edinson;Primaria;Masculino;Soltero;4;51;Sucesión;Ganado;46,40;74.386,60 $;2.673,02 $;1.818,48 $;0,00 $;143.423,00 $
+18/04/2020;Forero Montoya Carolina;Técnico;Femenino;Viuda;4;48;Sucesión;Café;46,24;31.889,50 $;2.443,25 $;2.083,47 $;23.598,23 $;17.539,00 $
+10/04/2020;Forero Montoya Lucia;Profesional;Femenino;Separada;5;54;Sucesión;Café;34,07;27.064,00 $;3.557,31 $;1.539,16 $;76.049,84 $;49.533,00 $
+15/09/2020;Forero Ramirez Diego;Primaria;Masculino;Casado;2;63;Sucesión;Frijol;14,44;19.040,80 $;4.581,89 $;2.608,92 $;39.224,05 $;63.616,00 $
+25/11/2019;Forero Ramirez Johana;Tecnólogo;Femenino;Unión Libre F;4;62;Sucesión;Ganado;20,98;9.319,50 $;4.688,46 $;2.958,99 $;0,00 $;20.496,00 $
+22/11/2019;Forero Ramirez Vanessa;Técnico;Femenino;Casada;1;48;Arrendatario;Frijol;21,06;18.330,40 $;7.701,10 $;7.219,17 $;549,91 $;32.465,00 $
+7/08/2020;Forero Roa Andres;Tecnólogo;Masculino;Unión Libre M;3;48;Sucesión;Papa;34,95;30.671,00 $;36.571,40 $;12.336,80 $;0,00 $;61.781,00 $
+21/08/2020;Forero Roa Carolina;Ninguno;Femenino;Casada;5;52;Sucesión;Frijol;28,32;28.425,50 $;1.692,23 $;1.304,15 $;22.740,40 $;37.950,00 $
+23/04/2019;Forero Sepulveda Johana;Otro;Femenino;Unión Libre F;2;59;Sucesión;Banano;18,15;12.128,90 $;2.026,15 $;2.865,52 $;0,00 $;24.048,00 $
+12/08/2019;Forero Uran Fernando;Otro;Masculino;Soltero;1;60;Propietario;Papa;36,01;73.392,50 $;38.236,60 $;23.967,40 $;46.971,20 $;211.507,00 $
+20/12/2019;Forero Uran Sandra;Secundaria;Femenino;Viuda;3;44;Propietario;Frijol;20,92;15.331,70 $;2.966,26 $;2.384,39 $;13.031,95 $;65.127,00 $
+23/07/2019;Guerrero Alvarez Andrea;Secundaria;Femenino;Soltera;3;59;Arrendatario;Café;15,70;11.361,60 $;2.501,08 $;2.894,84 $;19.769,18 $;47.226,00 $
+11/04/2019;Guerrero Alvarez Carolina;Primaria;Femenino;Unión Libre F;1;59;Arrendatario;Papa;27,34;36.176,30 $;2.468,90 $;2.206,42 $;37.985,12 $;95.476,00 $
+24/06/2020;Guerrero Alvarez Jinenth;Tecnólogo;Femenino;Separada;4;65;Sucesión;Café;9,71;8.802,19 $;26.694,70 $;25.854,90 $;0,00 $;43.585,00 $
+22/04/2019;Guerrero Alvarez Laura;Técnico;Femenino;Casada;4;55;Sucesión;Ganado;37,02;68.524,90 $;8.234,89 $;6.553,38 $;126.771,07 $;170.482,00 $
+28/01/2019;Guerrero Alvarez Lucia;Tecnólogo;Femenino;Separada;3;51;Propietario;Café;26,41;24.915,50 $;4.362,33 $;1.677,10 $;59.298,89 $;118.658,00 $
+2/10/2019;Guerrero Botero Mario;Especialista;Masculino;Separado;4;45;Propietario;Banano;20,05;17.495,30 $;4.098,22 $;2.450,45 $;0,00 $;37.922,00 $
+20/04/2020;Guerrero Botero Milena;Técnico;Femenino;Unión Libre F;4;50;Sucesión;Frijol;34,12;34.527,00 $;2.142,95 $;3.036,58 $;55.243,20 $;147.396,00 $
+11/06/2020;Guerrero Botero Sebastian;Técnico;Masculino;Unión Libre M;1;34;Propietario;Tomate;18,47;17.665,80 $;2.884,98 $;2.638,08 $;1.236,61 $;48.371,00 $
+18/03/2020;Guerrero Montoya Cristina;Otro;Femenino;Unión Libre F;4;37;Sucesión;Papa;28,48;33.101,50 $;4.171,63 $;2.131,30 $;54.948,49 $;53.548,00 $
+22/09/2020;Guerrero Montoya Jinenth;Secundaria;Femenino;Viuda;4;47;Sucesión;Tomate;11,03;10.076,30 $;2.437,19 $;3.081,53 $;503,82 $;24.316,00 $
+23/12/2018;Guerrero Montoya Johanna;Técnico;Femenino;Soltera;1;45;Sucesión;Tomate;33,61;37.746,40 $;17.445,70 $;7.700,98 $;113.616,66 $;93.782,00 $
+16/03/2019;Guerrero Ramirez Alisson;Especialista;Femenino;Soltera;3;67;Propietario;Papa;18,57;13.203,10 $;2.646,10 $;2.489,37 $;0,00 $;39.017,00 $
+14/12/2019;Guerrero Ramirez Erik;Otro;Masculino;Casado;4;44;Arrendatario;Banano;36,82;85.633,10 $;3.400,34 $;1.523,42 $;64.224,83 $;199.975,00 $
+27/01/2019;Guerrero Ramirez Johana;Tecnólogo;Femenino;Viuda;2;52;Propietario;Café;32,10;33.729,80 $;4.839,49 $;2.107,78 $;153.133,29 $;20.758,00 $
+2/04/2019;Guerrero Ramirez Leon;Técnico;Masculino;Soltero;2;40;Propietario;Papa;27,78;27.175,30 $;2.266,16 $;1.961,78 $;11.141,87 $;111.603,00 $
+2/11/2020;Guzman Alvarez Milena;Profesional;Femenino;Viuda;4;56;Sucesión;Papa;34,51;27.444,90 $;14.059,60 $;4.716,08 $;69.984,50 $;56.018,00 $
+21/02/2019;Guzman Botero Johana;Otro;Femenino;Separada;2;38;Sucesión;Café;14,50;8.623,82 $;4.024,02 $;2.224,63 $;11.210,97 $;26.088,00 $
+5/11/2019;Guzman Buitrago Milena;Secundaria;Femenino;Soltera;5;53;Sucesión;Café;42,66;67.418,10 $;3.991,88 $;2.719,63 $;14.831,98 $;330.449,00 $
+9/08/2019;Guzman Giraldo Cristina;Tecnólogo;Femenino;Soltera;3;43;Sucesión;Ganado;43,80;29.202,20 $;27.959,90 $;25.127,90 $;1.460,11 $;41.566,00 $
+30/11/2019;Guzman Giraldo Johana;Tecnólogo;Femenino;Viuda;1;53;Sucesión;Frijol;45,46;75.961,50 $;34.905,40 $;24.623,40 $;232.442,19 $;215.733,00 $
+16/06/2020;Guzman Ramirez Laura;Primaria;Femenino;Unión Libre F;4;73;Sucesión;Tomate;8,63;8.053,82 $;2.932,79 $;1.017,11 $;3.543,68 $;27.845,00 $
+20/01/2019;Guzman Ramirez Patricia;Técnico;Femenino;Casada;5;53;Sucesión;Banano;19,43;15.784,40 $;2.790,32 $;2.901,03 $;1.578,44 $;30.107,00 $
+15/11/2020;Guzman Ramirez Ximena;Ninguno;Femenino;Unión Libre F;4;41;Sucesión;Café;32,83;33.200,50 $;10.928,80 $;5.004,53 $;84.661,28 $;122.450,00 $
+14/06/2019;Guzman Roa Diego;Primaria;Masculino;Soltero;1;45;Sucesión;Café;23,40;17.642,30 $;39.714,60 $;24.461,30 $;0,00 $;16.115,00 $
+27/03/2019;Guzman Sepulveda Fernando;Profesional;Masculino;Viudo;3;43;Sucesión;Banano;22,23;13.730,90 $;2.475,88 $;1.515,40 $;0,00 $;36.531,00 $
+13/08/2020;Henao Alvarez Claudia;Técnico;Femenino;Soltera;4;44;Sucesión;Papa;19,23;18.861,60 $;3.946,53 $;1.370,24 $;23.765,62 $;63.517,00 $
+24/05/2019;Henao Alvarez Laura;Secundaria;Femenino;Viuda;2;55;Sucesión;Frijol;30,96;26.847,40 $;23.693,00 $;7.299,06 $;42.955,84 $;106.242,00 $
+21/06/2019;Henao Alvarez Ximena;Técnico;Femenino;Unión Libre F;5;42;Sucesión;Café;14,15;11.835,36 $;3.023,68 $;1.841,63 $;9.349,93 $;37.146,00 $
+30/06/2020;Henao Botero Jinenth;Otro;Femenino;Viuda;4;39;Arrendatario;Ganado;15,29;18.737,30 $;14.207,30 $;5.006,24 $;26.606,97 $;34.987,00 $
+12/08/2020;Henao Buitrago Jose;Técnico;Masculino;Soltero;1;19;Sucesión;Café;38,56;77.924,50 $;56.047,00 $;22.022,00 $;114.549,02 $;303.740,00 $
+28/02/2020;Henao Calle Alisson;Profesional;Femenino;Viuda;2;37;Propietario;Tomate;38,07;76.509,60 $;1.412,00 $;1.193,99 $;260.897,74 $;256.505,00 $
+10/04/2020;Henao Loaiza David;Primaria;Masculino;Unión Libre M;4;56;Arrendatario;Tomate;28,13;28.029,50 $;4.532,53 $;2.201,49 $;0,00 $;14.747,00 $
+17/05/2019;Henao Loaiza Vanessa;Secundaria;Femenino;Casada;3;78;Arrendatario;Café;28,92;35.090,80 $;7.815,10 $;6.297,53 $;43.863,50 $;54.346,00 $
+27/01/2019;Henao Montoya Claudia;Profesional;Femenino;Casada;5;43;Arrendatario;Café;22,90;16.487,20 $;2.727,19 $;2.678,89 $;31.655,42 $;37.078,00 $
+27/03/2020;Henao Montoya Jinenth;Secundaria;Femenino;Unión Libre F;1;43;Arrendatario;Banano;14,22;15.846,40 $;2.814,97 $;2.559,27 $;4.120,06 $;49.010,00 $
+9/02/2019;Henao Montoya Johana;Especialista;Femenino;Separada;5;44;Sucesión;Café;22,86;13.801,50 $;3.056,30 $;2.562,89 $;1.380,15 $;63.123,00 $
+30/10/2020;Henao Montoya Johanna;Especialista;Femenino;Soltera;1;47;Sucesión;Ganado;24,72;29.574,60 $;3.016,16 $;1.243,22 $;4.436,19 $;69.212,00 $
+23/01/2019;Henao Montoya Laura;Profesional;Femenino;Casada;1;44;Arrendatario;Café;38,14;23.939,30 $;3.827,21 $;2.478,16 $;51.948,28 $;56.730,00 $
+13/03/2019;Henao Ramirez Andres;Técnico;Masculino;Unión Libre M;1;36;Arrendatario;Ganado;29,95;24.205,60 $;2.934,98 $;1.843,45 $;106.988,75 $;87.820,00 $
+11/05/2019;Henao Ramirez Carlos;Otro;Masculino;Unión Libre M;4;54;Propietario;Frijol;37,90;95.449,20 $;10.001,50 $;6.343,15 $;0,00 $;276.776,00 $
+1/01/2019;Henao Ramirez Cristina;Otro;Femenino;Viuda;5;40;Sucesión;Frijol;14,55;11.074,70 $;2.146,43 $;2.376,03 $;33.002,61 $;39.078,00 $
+2/11/2019;Henao Ramirez Eduardo;Profesional;Masculino;Viudo;3;55;Arrendatario;Ganado;17,69;13.675,00 $;3.714,41 $;2.283,67 $;40.341,25 $;43.589,00 $
+26/03/2020;Henao Ramirez Vanessa;Ninguno;Femenino;Casada;3;35;Arrendatario;Papa;17,21;17.386,10 $;47.232,50 $;19.568,30 $;78.759,03 $;65.215,00 $
+27/04/2020;Henao Uran Andrea;Especialista;Femenino;Unión Libre F;3;44;Arrendatario;Banano;30,94;32.349,50 $;2.431,59 $;1.813,80 $;0,00 $;28.594,00 $
+9/07/2019;Henao Uran Sandra;Técnico;Femenino;Separada;5;63;Sucesión;Banano;46,65;78.940,80 $;23.435,50 $;29.802,70 $;78.940,80 $;42.219,00 $
+13/02/2019;Lopez Alvarez Andres;Secundaria;Masculino;Casado;4;52;Propietario;Ganado;33,59;29.298,50 $;2.774,37 $;1.473,17 $;9.375,52 $;108.988,00 $
+19/12/2018;Lopez Botero Sandra;Primaria;Femenino;Viuda;3;44;Arrendatario;Papa;39,93;65.612,80 $;11.101,00 $;9.205,17 $;155.502,34 $;184.380,00 $
+22/01/2020;Lopez Botero Sandra;Ninguno;Femenino;Unión Libre F;5;39;Sucesión;Banano;29,27;31.215,10 $;44.782,40 $;21.047,20 $;86.153,68 $;54.218,00 $
+15/11/2019;Lopez Buitrago Erik;Especialista;Masculino;Casado;1;53;Propietario;Banano;22,92;11.559,10 $;15.101,70 $;6.911,57 $;0,00 $;40.410,00 $
+17/04/2020;Lopez Buitrago Juan;Primaria;Masculino;Casado;4;45;Arrendatario;Café;23,74;10.880,90 $;3.908,50 $;1.213,93 $;10.228,05 $;35.791,00 $
+10/02/2020;Lopez Buitrago Laura;Secundaria;Femenino;Soltera;2;70;Sucesión;Papa;34,81;21.647,90 $;2.720,21 $;2.463,96 $;84.426,81 $;83.562,00 $
+28/12/2019;Lopez Buitrago Mario;Primaria;Masculino;Unión Libre M;1;51;Propietario;Banano;28,62;28.519,80 $;1.878,82 $;2.364,12 $;9.411,53 $;23.723,00 $
+13/11/2020;Lopez Buitrago Vanessa;Especialista;Femenino;Unión Libre F;1;55;Sucesión;Café;16,01;12.346,46 $;3.976,38 $;3.157,00 $;18.643,16 $;56.324,00 $
+12/01/2019;Lopez Calle Juan;Otro;Masculino;Casado;1;57;Propietario;Ganado;23,12;17.874,00 $;4.199,80 $;1.727,87 $;32.888,16 $;51.721,00 $
+8/03/2019;Lopez Calle Miguel;Primaria;Masculino;Unión Libre M;4;61;Propietario;Café;22,10;18.097,30 $;55.377,40 $;17.930,40 $;61.711,79 $;18.208,00 $
+11/02/2020;Lopez Garcia Monica;Ninguno;Femenino;Soltera;5;79;Arrendatario;Papa;23,97;15.018,40 $;3.281,55 $;2.237,97 $;29.285,88 $;14.308,00 $
+7/07/2019;Lopez Loaiza Sebastian;Otro;Masculino;Separado;4;42;Propietario;Frijol;28,40;24.815,10 $;36.192,50 $;17.244,90 $;11.414,95 $;60.313,00 $
+7/09/2020;Lopez Loaiza Vanessa;Tecnólogo;Femenino;Soltera;3;38;Sucesión;Papa;13,47;11.590,67 $;5.187,05 $;1.946,62 $;53.664,79 $;29.657,00 $
+19/10/2020;Lopez Loaiza Vanessa;Tecnólogo;Femenino;Soltera;5;53;Sucesión;Banano;19,25;12.746,30 $;2.889,24 $;1.918,56 $;7.265,39 $;57.724,00 $
+24/09/2019;Lopez Montoya Carlos;Especialista;Masculino;Casado;5;54;Propietario;Tomate;41,69;79.280,00 $;35.952,10 $;20.980,80 $;93.550,40 $;289.855,00 $
+19/01/2020;Lopez Montoya Carolina;Otro;Femenino;Separada;5;64;Propietario;Café;42,08;68.842,30 $;25.590,10 $;23.712,60 $;54.385,42 $;237.887,00 $
+21/07/2019;Lopez Montoya Cristina;Primaria;Femenino;Unión Libre F;4;53;Sucesión;Frijol;38,39;30.905,20 $;3.735,63 $;2.617,11 $;30.596,15 $;70.701,00 $
+1/09/2019;Lopez Montoya Lady;Profesional;Femenino;Separada;2;61;Arrendatario;Papa;35,41;28.378,70 $;51.012,70 $;27.075,80 $;26.675,98 $;51.113,00 $
+3/09/2020;Lopez Montoya Lady;Otro;Femenino;Casada;1;38;Sucesión;Papa;38,07;23.667,00 $;3.537,47 $;2.545,12 $;236,67 $;83.522,00 $
+30/01/2020;Lopez Montoya Monica;Ninguno;Femenino;Separada;5;65;Arrendatario;Papa;24,37;23.583,40 $;2.132,06 $;2.469,59 $;0,00 $;91.735,00 $
+19/08/2019;Lopez Ramirez Carolina;Primaria;Femenino;Casada;1;33;Sucesión;Papa;17,17;18.126,00 $;3.085,95 $;2.625,16 $;10.331,82 $;25.377,00 $
+22/02/2019;Lopez Ramirez Claudia;Primaria;Femenino;Soltera;1;50;Sucesión;Café;30,81;24.659,10 $;29.091,10 $;23.092,00 $;23.426,15 $;15.625,00 $
+16/05/2020;Lopez Ramirez Diego;Técnico;Masculino;Casado;5;61;Arrendatario;Café;18,37;12.099,90 $;12.062,10 $;6.040,26 $;0,00 $;51.838,00 $
+9/07/2019;Lopez Ramirez Hoover;Técnico;Masculino;Unión Libre M;1;57;Propietario;Banano;24,70;32.778,60 $;2.255,03 $;2.724,55 $;655,57 $;51.830,00 $
+16/10/2019;Lopez Ramirez Johana;Secundaria;Femenino;Separada;1;67;Arrendatario;Papa;32,43;27.188,70 $;3.524,51 $;2.880,05 $;5.437,74 $;34.488,00 $
+24/12/2019;Lopez Roa Johana;Primaria;Femenino;Casada;5;37;Arrendatario;Papa;24,88;31.694,20 $;9.913,24 $;8.730,28 $;50.076,84 $;109.732,00 $
+12/03/2019;Lopez Roa Sandra;Profesional;Femenino;Unión Libre F;5;53;Sucesión;Frijol;22,74;17.460,40 $;14.992,90 $;4.809,20 $;52.555,80 $;27.284,00 $
+22/07/2020;Pena Botero Alberto;Secundaria;Masculino;Soltero;3;47;Propietario;Papa;42,26;74.657,50 $;3.144,78 $;1.461,81 $;105.267,08 $;351.396,00 $
+8/04/2019;Pena Buitrago Felipe;Profesional;Masculino;Soltero;1;62;Arrendatario;Café;20,84;16.409,90 $;4.919,53 $;1.536,73 $;19.527,78 $;19.008,00 $
+19/05/2020;Pena Montoya Hoover;Tecnólogo;Masculino;Soltero;5;54;Propietario;Frijol;18,91;14.400,60 $;2.698,61 $;1.661,02 $;11.088,46 $;33.271,00 $
+27/10/2020;Pena Ramirez Andres;Secundaria;Masculino;Unión Libre M;4;55;Arrendatario;Papa;3,92;9.389,28 $;4.086,21 $;1.371,80 $;0,00 $;12.620,00 $
+12/01/2020;Pena Roa Vanessa;Ninguno;Femenino;Viuda;3;77;Arrendatario;Papa;22,43;16.030,00 $;4.478,47 $;1.525,62 $;7.854,70 $;66.349,00 $
+6/10/2019;Perez Alvarez Andrea;Tecnólogo;Femenino;Separada;4;50;Arrendatario;Café;14,64;12.777,20 $;2.122,11 $;2.434,75 $;21.210,15 $;41.307,00 $
+18/10/2020;Perez Botero Fernando;Ninguno;Masculino;Soltero;3;47;Arrendatario;Café;34,15;28.852,30 $;4.596,97 $;2.189,62 $;7.501,60 $;15.889,00 $
+21/09/2019;Perez Botero Jinenth;Ninguno;Femenino;Viuda;4;53;Sucesión;Ganado;35,31;33.402,10 $;19.044,60 $;17.848,30 $;27.389,72 $;61.319,00 $
+24/08/2019;Perez Botero Ximena;Otro;Femenino;Unión Libre F;4;43;Arrendatario;Frijol;23,66;12.935,70 $;7.032,51 $;4.484,68 $;8.020,13 $;55.322,00 $
+2/04/2020;Perez Buitrago Jinenth;Tecnólogo;Femenino;Separada;1;48;Arrendatario;Ganado;19,24;12.850,00 $;21.053,50 $;26.102,50 $;10.408,50 $;21.787,00 $
+19/01/2019;Perez Buitrago Laura;Primaria;Femenino;Soltera;5;42;Arrendatario;Frijol;21,81;13.022,40 $;13.653,60 $;4.496,15 $;2.474,26 $;29.057,00 $
+3/09/2019;Perez Buitrago Milena;Primaria;Femenino;Viuda;4;43;Sucesión;Ganado;37,13;80.904,40 $;3.670,39 $;2.075,97 $;317.145,25 $;72.058,00 $
+10/03/2020;Perez Loaiza Johanna;Otro;Femenino;Viuda;2;49;Sucesión;Papa;12,41;6.983,65 $;1.643,91 $;2.504,96 $;15.084,68 $;18.124,00 $
+3/02/2019;Perez Loaiza Laura;Otro;Femenino;Casada;5;59;Sucesión;Frijol;46,66;28.200,30 $;11.890,40 $;4.322,03 $;139.873,49 $;56.924,00 $
+14/03/2019;Perez Montoya Jose;Especialista;Masculino;Unión Libre M;5;65;Arrendatario;Ganado;36,29;86.447,10 $;12.137,00 $;9.221,82 $;150.417,95 $;162.427,00 $
+7/06/2019;Perez Montoya Yenifer;Especialista;Femenino;Separada;5;44;Sucesión;Ganado;8,54;9.518,30 $;4.343,00 $;1.547,95 $;16.752,21 $;5.760,00 $
+14/05/2019;Perez Ramirez Alberto;Ninguno;Masculino;Unión Libre M;2;55;Propietario;Café;19,00;14.950,70 $;13.802,70 $;5.225,65 $;14.651,69 $;56.763,00 $
+17/12/2019;Perez Ramirez Andres;Tecnólogo;Masculino;Unión Libre M;5;59;Arrendatario;Frijol;6,14;13.487,50 $;3.737,11 $;2.086,23 $;24.412,38 $;48.732,00 $
+23/05/2020;Perez Ramirez Cristina;Secundaria;Femenino;Soltera;4;45;Sucesión;Café;33,50;30.941,90 $;30.248,50 $;19.010,60 $;11.139,08 $;136.330,00 $
+14/04/2019;Perez Ramirez Jinenth;Ninguno;Femenino;Casada;2;51;Arrendatario;Ganado;23,85;13.441,40 $;2.188,52 $;2.307,98 $;5.107,73 $;44.776,00 $
+3/08/2020;Perez Ramirez Laura;Técnico;Femenino;Soltera;4;70;Arrendatario;Ganado;21,33;13.574,50 $;3.007,44 $;2.069,02 $;5.565,55 $;63.994,00 $
+10/03/2020;Perez Ramirez Lucia;Primaria;Femenino;Casada;2;43;Sucesión;Banano;30,54;39.028,50 $;2.173,46 $;1.950,50 $;44.102,21 $;137.526,00 $
+9/09/2020;Perez Roa Claudia;Técnico;Femenino;Unión Libre F;4;57;Sucesión;Café;39,62;52.616,80 $;30.872,00 $;12.012,30 $;37.884,10 $;81.341,00 $
+11/11/2020;Perez Uran Sebastian;Otro;Masculino;Separado;3;59;Arrendatario;Papa;23,61;19.456,20 $;2.348,95 $;2.450,11 $;15.564,96 $;96.394,00 $
+22/03/2020;Ramos Alvarez Andrea;Profesional;Femenino;Soltera;3;60;Arrendatario;Papa;21,82;13.617,80 $;3.199,71 $;2.316,15 $;19.337,28 $;7.812,00 $
+29/07/2019;Ramos Alvarez Jinenth;Otro;Femenino;Casada;3;42;Sucesión;Café;36,94;79.385,00 $;64.588,80 $;28.923,20 $;288.961,40 $;395.329,00 $
+25/01/2019;Ramos Buitrago Diego;Otro;Masculino;Casado;4;51;Propietario;Banano;19,01;12.940,20 $;18.158,90 $;10.293,20 $;41.667,44 $;59.212,00 $
+15/11/2020;Ramos Calle Cristina;Especialista;Femenino;Separada;3;49;Arrendatario;Café;47,98;30.502,50 $;17.350,30 $;9.321,37 $;28.367,33 $;48.478,00 $
+4/03/2019;Ramos Giraldo Ximena;Técnico;Femenino;Casada;4;49;Sucesión;Ganado;40,51;74.209,60 $;3.325,93 $;2.106,94 $;57.141,39 $;357.399,00 $
+2/10/2019;Ramos Montoya Eduardo;Profesional;Masculino;Unión Libre M;1;56;Propietario;Papa;17,91;15.196,40 $;3.976,15 $;852,57 $;52.579,54 $;61.931,00 $
+23/06/2019;Ramos Ramirez Alisson;Técnico;Femenino;Casada;1;54;Sucesión;Café;32,47;33.043,20 $;1.829,47 $;2.332,89 $;46.590,91 $;101.244,00 $
+5/05/2020;Ramos Ramirez Sandra;Tecnólogo;Femenino;Unión Libre F;4;43;Sucesión;Frijol;30,43;33.576,70 $;4.044,41 $;2.817,34 $;75.547,58 $;106.072,00 $
+11/03/2020;Restrepo Alvarez Fernando;Tecnólogo;Masculino;Soltero;3;58;Propietario;Café;21,91;17.367,40 $;2.624,18 $;2.266,62 $;47.586,68 $;63.767,00 $
+22/04/2020;Restrepo Alvarez Jinenth;Tecnólogo;Femenino;Unión Libre F;1;42;Arrendatario;Tomate;15,26;10.771,15 $;8.691,96 $;7.525,70 $;11.417,42 $;32.133,00 $
+24/05/2019;Restrepo Buitrago Luis;Secundaria;Masculino;Unión Libre M;1;70;Sucesión;Tomate;29,56;29.828,30 $;53.890,40 $;32.079,00 $;5.965,66 $;143.394,00 $
+5/05/2019;Restrepo Montoya Sandra;Especialista;Femenino;Soltera;3;48;Sucesión;Café;8,86;10.521,20 $;3.692,17 $;2.728,99 $;5.365,81 $;40.782,00 $
+24/05/2019;Restrepo Ramirez Johanna;Secundaria;Femenino;Viuda;4;51;Propietario;Frijol;29,93;31.352,60 $;3.043,00 $;2.345,75 $;131.367,39 $;104.846,00 $
+3/06/2019;Taborda Alvarez Andres;Profesional;Masculino;Separado;5;62;Sucesión;Café;25,40;30.147,60 $;2.008,52 $;1.834,68 $;10.250,18 $;47.661,00 $
+15/03/2020;Taborda Botero Lucia;Primaria;Femenino;Viuda;5;75;Sucesión;Ganado;43,14;26.131,40 $;4.199,34 $;2.644,47 $;5.748,91 $;120.127,00 $
+1/09/2020;Taborda Calle Johana;Técnico;Femenino;Soltera;5;54;Propietario;Ganado;38,50;80.599,50 $;3.424,85 $;2.630,82 $;345.771,86 $;204.561,00 $
+16/07/2020;Taborda Montoya Jinenth;Secundaria;Femenino;Soltera;1;57;Sucesión;Tomate;39,60;66.496,50 $;3.042,36 $;1.732,84 $;99.744,75 $;295.200,00 $
+7/01/2019;Taborda Montoya Patricia;Primaria;Femenino;Soltera;2;48;Sucesión;Tomate;24,86;33.778,70 $;4.469,42 $;1.342,91 $;13.173,69 $;37.451,00 $
+11/09/2019;Taborda Sepulveda Lucia;Técnico;Femenino;Soltera;2;78;Sucesión;Tomate;6,47;12.765,20 $;3.255,58 $;2.174,38 $;11.361,03 $;8.331,00 $
+;;;;;;;;;;;;;;
